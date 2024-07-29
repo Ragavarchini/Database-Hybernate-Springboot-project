@@ -43,9 +43,10 @@
         <h1>Welcome to Our Healthcare Portal</h1>
         <p>Your health is our priority. Please choose an option below to proceed:</p>
         <div class="button-container">
-            <a href="patientregform.jsp" class="button">Go to Patient Registration Form</a>
-            <a href="doctorregform.jsp" class="button">Go to Doctor Registration Form</a>
+            <a href="patientregform.jsp" class="button"> Patient Registration Form</a>
+            <a href="doctorregform.jsp" class="button"> Doctor Registration Form</a>
+            <a href="Admin.jsp" class="button">Admin Panel</a>
         </div>
     </div>
-</body>
+</body> 
 </html>
