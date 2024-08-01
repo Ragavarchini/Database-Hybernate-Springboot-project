@@ -13,7 +13,7 @@ public class LambdaExample1 {
 		//new way1
 		//li.forEach(s -> System.out.println(s));
 		//li.forEach(System.out::println(s));
-		
+		 
 		//new way2
 		li.stream()
 		.filter(s ->s.startsWith("C"))
