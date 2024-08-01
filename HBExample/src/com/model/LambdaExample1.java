@@ -8,7 +8,7 @@ public class LambdaExample1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		List<String> li=Arrays.asList("Karur","Trichy","Coimbatore","Chennai");
-		//for(String s:li) {Syste.out.println(s));
+		//for(String s:li) {System.out.println(s));
 		
 		//new way1
 		//li.forEach(s -> System.out.println(s));
